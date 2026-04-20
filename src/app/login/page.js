@@ -141,7 +141,7 @@ export default function Login() {
           </button>
 
           <p style={{ textAlign: "center", marginTop: 20, color: "#555", fontSize: 13 }}>
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link href="/register" style={{ color: "var(--accent)", fontWeight: 700, textDecoration: "none" }}>
               Register
             </Link>
